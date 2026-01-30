@@ -1,3 +1,5 @@
 使用了：Noto Sans，Noto Sans CJK SC，MesloLGS Nerd Font
 
-此文件应当被放置在：~/.config/fontconfig/fonts.conf or /etc/fonts/local.conf
+local.conf 应当重命名为 fonts.conf 放置在：~/.config/fontconfig/fonts.conf 
+
+ 或是直接放入： /etc/fonts/local.conf
