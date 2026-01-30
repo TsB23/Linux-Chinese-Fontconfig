@@ -1,4 +1,4 @@
-使用了: Noto Sans, Noto Sans CJK SC, MesloLGS Nerd Font, Noto Sans Mono CJK SC
+使用了: Noto Sans, Noto Sans CJK SC, JetBrains Mono, Noto Sans Mono CJK SC
 
 local.conf 应当重命名为 fonts.conf 放置在: ~/.config/fontconfig/fonts.conf 
 
